@@ -13,3 +13,7 @@ This is a **learning** repository. You will see that the `github-learning-lab` b
 ### Getting Started
 
 We hope you are excited to get started! Head over to the take your first steps toward a :sparkles: Open Source program for your company.
+
+### License
+
+This repositories is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
