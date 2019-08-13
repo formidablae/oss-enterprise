@@ -17,3 +17,7 @@ Before you open source your project, consider the effort required to maintain it
 ## FAQ
 
 #### Who owns the code I contribute to open source projects?
+
+## License
+
+This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
